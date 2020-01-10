@@ -178,10 +178,14 @@ bool  MultiChannelBlending()
 }
 ```
 
-效果图
+![原图1](./data/dota_jugg.jpg#pic_center)
 
-![原图1](./data/dota_jugg.jpg)
+<center>原图</center>
 
-![logo](./data/dota_logo.jpg)
+![logo](./data/dota_logo.jpg#pic_center)
 
-<img src=".\data\src_blue.png" alt="蓝色通道融合" style="zoom:100%;" />
+<center>logo图</center>
+
+<img src=".\data\src_blue.png#pic_center" alt="蓝色通道融合" style="zoom:100%;" />
+
+<center>效果图</center>
